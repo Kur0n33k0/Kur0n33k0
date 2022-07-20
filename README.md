@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 <div align="center">
   <a href="https://hackynov.fr"><img src="https://i.imgur.com/XGJF8Xu.png" alt="Hacky'Nov" width="10%"></a>
   <br><br>
@@ -22,6 +22,8 @@
 </div>
 
 Contact me on Linkedin: [Antoine Sirven](https://www.linkedin.com/in/antoine-sirven-as/)
+
+<!--
 **Kur0n33k0/Kur0n33k0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
