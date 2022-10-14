@@ -16,7 +16,10 @@
   <a href="" align="left">Youtube (coming soon)</a></p>
 
 
-Contact me on Linkedin: [Antoine Sirven](https://www.linkedin.com/in/antoine-sirven-as/)
+<p align="left">Contact me on <a href="https://www.linkedin.com/in/antoine-sirven-as/" align="left">Linkedin</a>
+  •
+  <a href="antoinesirven.fr" align="left">Website</a>
+ 
 
 <!--
 **Kur0n33k0/Kur0n33k0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
