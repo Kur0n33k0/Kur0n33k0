@@ -18,7 +18,7 @@
 
 <p align="left">Contact me on <a href="https://www.linkedin.com/in/antoine-sirven-as/" align="left">Linkedin</a>
   •
-  <a href="antoinesirven.fr" align="left">Website</a>
+  <a href="www.antoinesirven.fr" align="left">Website</a>
  
 
 <!--
