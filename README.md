@@ -13,7 +13,7 @@
   •
   <a href="https://www.twitch.tv/hackynov" align="left">Twitch</a>
   •
-  <a href="" align="left">Youtube (coming soon)</a></p>
+  <a href="https://www.youtube.com/@Hackynov" align="left">Youtube</a></p>
 
 
 <p align="left">Contact me on <a href="https://www.linkedin.com/in/antoine-sirven-as/" align="left">Linkedin</a>
